@@ -1,30 +1,30 @@
 # 💼 Developer Portfolio Website
 
-This is my personal **developer portfolio website**, originally built as a practice project and now used professionally to showcase my skills, experience, and projects. It's designed with responsiveness, performance, and a clean UI in mind.
+This is my personal **developer portfolio website**, created using only **HTML**, **Tailwind CSS**, and **JavaScript**. Initially built as a practice project, it now serves as my official site to showcase my skills, projects, and contact information.
 
 ## 🚀 Features
 
-- 🧠 About Me section with skills and tech stack
-- 📁 Projects showcase with links and details
-- 📞 Contact form with email integration
-- 📱 Fully responsive design
-- 🌐 Deployed online and optimized for performance
+- 👋 About Me section with skills and bio
+- 🧩 Project showcase with links
+- 📞 Contact form (static or with email service)
+- 🌙 Clean, responsive design
+- 💡 Fast and lightweight
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js
-- **Backend (optional if dynamic):** Node.js, Express.js
-- **Auth & Deployment (if used):** Firebase, Vercel/Netlify
-- **Other Tools:** Git, GitHub
+- **HTML**
+- **Tailwind CSS**
+- **JavaScript**
 
 ## 📸 Preview
 
-![Portfolio Preview](./screenshot.png) <!-- Add a real screenshot file or link -->
+![Portfolio Preview](./screenshot.png) <!-- Add a real screenshot or remove this if not available -->
 
-## 📦 Installation (if needed locally)
+## 🔧 Getting Started
+
+To run locally:
 
 ```bash
 git clone https://github.com/your-username/portfolio-website.git
 cd portfolio-website
-npm install
-npm start
+# Open index.html in your browser
